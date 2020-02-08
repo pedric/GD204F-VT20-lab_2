@@ -1,0 +1,2 @@
+Katalogen "indesign_original" kan egentligen ignoreras. i "i2_fredrik_larsson" finns alla typsnitt m.m. packade.
+./i2_fredrik_larsson.pdf är min rapport och ./i2_fredrik_larsson/i2_fredrik_larsson.pdf är layoutarbetet.
